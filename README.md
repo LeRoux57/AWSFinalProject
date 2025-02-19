@@ -1,6 +1,7 @@
 <h1> TP AWS </h1>
 <h2>Schématisation de l’infrastructure : </h2>
-!(ReadMeImage/Pasted image 20250219160424.png)
+
+![screenshot](ReadMeImage/Schéma)
 
 Dans un premier temps, on remarque que par coût, notre client nous demande d’utiliser une VPC. Ici notre VPC sera disponible dans 2 zones, mais pour des questions de coût, seul la base de données sera répliquée sur 2 zones.
 
